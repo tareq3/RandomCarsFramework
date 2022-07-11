@@ -1,0 +1,31 @@
+// swift-interface-format-version: 1.0
+// swift-compiler-version: Apple Swift version 5.6.1 (swiftlang-5.6.0.323.66 clang-1316.0.20.12)
+// swift-module-flags: -target arm64-apple-ios15.5-simulator -enable-objc-interop -enable-library-evolution -swift-version 5 -enforce-exclusivity=checked -O -module-name RandomCars
+import Foundation
+@_exported import RandomCars
+import Swift
+import _Concurrency
+public class RandomCars {
+  public init()
+  public func getRandomCar() -> RandomCars.Cars
+  @objc deinit
+}
+public enum Cars : Swift.CaseIterable {
+  case Toyota
+  case Honda
+  case Tesla
+  case Mazda
+  case Nissan
+  case Suzuki
+  public static func == (a: RandomCars.Cars, b: RandomCars.Cars) -> Swift.Bool
+  public func hash(into hasher: inout Swift.Hasher)
+  public typealias AllCases = [RandomCars.Cars]
+  public static var allCases: [RandomCars.Cars] {
+    get
+  }
+  public var hashValue: Swift.Int {
+    get
+  }
+}
+extension RandomCars.Cars : Swift.Equatable {}
+extension RandomCars.Cars : Swift.Hashable {}

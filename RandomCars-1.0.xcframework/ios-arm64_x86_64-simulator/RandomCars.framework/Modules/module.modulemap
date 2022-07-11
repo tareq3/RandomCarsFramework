@@ -1,0 +1,11 @@
+framework module RandomCars {
+  umbrella header "RandomCars.h"
+
+  export *
+  module * { export * }
+}
+
+module RandomCars.Swift {
+    header "RandomCars-Swift.h"
+    requires objc
+}
