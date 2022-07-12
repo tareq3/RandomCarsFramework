@@ -5,7 +5,7 @@ import Foundation
 @_exported import RandomCars
 import Swift
 import _Concurrency
-public class RandomCars {
+public class RandomCarGenerator {
   public init()
   public func getRandomCar() -> RandomCars.Cars
   @objc deinit
