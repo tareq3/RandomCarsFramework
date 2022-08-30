@@ -1,6 +1,6 @@
 Pod::Spec.new do |spec|
   spec.name         = 'RandomCars'
-  spec.version      = '0.10.3'
+  spec.version      = '0.10.4'
   spec.license      = { :type => 'MIT' }
   spec.homepage     = 'https://github.com/tareq3/'
   spec.authors      = { 'Tareq' => 'mti.tareq3@gmail.com' }
