@@ -1,6 +1,6 @@
 Pod::Spec.new do |spec|
   spec.name         = 'RandomCars'
-  spec.version      = '0.14.28'
+  spec.version      = '0.14.29'
   spec.license      = { :type => 'MIT' }
   spec.homepage     = 'https://github.com/tareq3/'
   spec.authors      = { 'Tareq' => 'mti.tareq3@gmail.com' }
@@ -12,7 +12,8 @@ Pod::Spec.new do |spec|
     'FRAMEWORK_SEARCH_PATHS' => '$(inherited)'
   }
   
-  spec.dependency 'IdensicMobileSDK', '1.19.5'
+  spec.dependency 'RandomColorSwift'
+
 
   spec.default_subspec = 'Debug'
 
