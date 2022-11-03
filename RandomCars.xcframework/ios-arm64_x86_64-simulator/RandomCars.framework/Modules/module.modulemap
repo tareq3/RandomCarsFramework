@@ -6,6 +6,6 @@ framework module RandomCars {
 }
 
 module RandomCars.Swift {
-  header "RandomCars-Swift.h"
-  requires objc
+    header "RandomCars-Swift.h"
+    requires objc
 }

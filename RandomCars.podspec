@@ -12,7 +12,7 @@ Pod::Spec.new do |spec|
     'FRAMEWORK_SEARCH_PATHS' => '$(inherited)'
   }
   
-  spec.dependency 'RandomColorSwift'
+  
 
 
   spec.default_subspec = 'Debug'
@@ -27,6 +27,8 @@ Pod::Spec.new do |spec|
 
   spec.pod_target_xcconfig = { 'EXCLUDED_ARCHS[sdk=iphonesimulator*]' => 'arm64 i386' }
   spec.user_target_xcconfig = { 'EXCLUDED_ARCHS[sdk=iphonesimulator*]' => 'arm64 i386' }
+  
+  spec.dependency 'Toast-Swift', '~> 5.0.1'
 
 
 end
