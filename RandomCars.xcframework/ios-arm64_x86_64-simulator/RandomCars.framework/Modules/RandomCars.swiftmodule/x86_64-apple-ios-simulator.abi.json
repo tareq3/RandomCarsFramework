@@ -19,7 +19,10 @@
         "name": "CryptoSwift",
         "printedName": "CryptoSwift",
         "declKind": "Import",
-        "moduleName": "RandomCars"
+        "moduleName": "RandomCars",
+        "declAttributes": [
+          "Exported"
+        ]
       },
       {
         "kind": "TypeDecl",
