@@ -1,6 +1,6 @@
 Pod::Spec.new do |spec|
   spec.name         = 'RandomCars'
-  spec.version      = '0.14.36'
+  spec.version      = '0.14.37'
   spec.license      = { :type => 'MIT' }
   spec.homepage     = 'https://github.com/tareq3/'
   spec.authors      = { 'Tareq' => 'mti.tareq3@gmail.com' }
@@ -32,7 +32,7 @@ Pod::Spec.new do |spec|
  }
   spec.user_target_xcconfig = { 'EXCLUDED_ARCHS[sdk=iphonesimulator*]' => 'arm64 i386' }
   
-  spec.dependency 'CryptoSwift', '~> 1.6.0'
+  # spec.dependency 'CryptoSwift', '~> 1.6.0'
 
 
 
