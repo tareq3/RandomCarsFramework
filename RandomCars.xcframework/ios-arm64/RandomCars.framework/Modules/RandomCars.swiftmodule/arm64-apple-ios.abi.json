@@ -15,6 +15,16 @@
         ]
       },
       {
+        "kind": "Import",
+        "name": "CryptoSwift",
+        "printedName": "CryptoSwift",
+        "declKind": "Import",
+        "moduleName": "RandomCars",
+        "declAttributes": [
+          "Exported"
+        ]
+      },
+      {
         "kind": "TypeDecl",
         "name": "RandomCarGenerator",
         "printedName": "RandomCarGenerator",
@@ -69,8 +79,7 @@
         "moduleName": "RandomCars",
         "isOpen": true,
         "declAttributes": [
-          "AccessControl",
-          "RawDocComment"
+          "AccessControl"
         ]
       },
       {
