@@ -21,7 +21,7 @@
         "declKind": "Import",
         "moduleName": "RandomCars",
         "declAttributes": [
-          "Exported"
+          "ImplementationOnly"
         ]
       },
       {

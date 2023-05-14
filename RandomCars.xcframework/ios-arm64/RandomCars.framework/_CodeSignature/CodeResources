@@ -18,11 +18,11 @@
 		</data>
 		<key>Modules/RandomCars.swiftmodule/arm64-apple-ios.abi.json</key>
 		<data>
-		WCvorDhhnQcBJGmi+qhIpgX/wdI=
+		vppdkYPYJbWNuLpGiGyAlaKzioE=
 		</data>
 		<key>Modules/RandomCars.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<data>
-		90cF/WR48LV2KtbCEDzl/atfbJc=
+		GU8GuQaMLKSvgKmz/0J+kX9SBrc=
 		</data>
 		<key>Modules/RandomCars.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<data>
@@ -30,11 +30,11 @@
 		</data>
 		<key>Modules/RandomCars.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<data>
-		90cF/WR48LV2KtbCEDzl/atfbJc=
+		GU8GuQaMLKSvgKmz/0J+kX9SBrc=
 		</data>
 		<key>Modules/RandomCars.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		dB2YMLa7xNiHgsM/XznCMwJYVdg=
+		OjnhLON8E8ectGvUqMn/HvV/yCk=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -61,14 +61,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			VdVKSs1FhBSPPErkzYSEuM62F0+wgqau1lHiGNlEN3k=
+			Ttb/ajphTq41/bprSjs3+xUVDlcrVHO4y3qMi2zS72Y=
 			</data>
 		</dict>
 		<key>Modules/RandomCars.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			rDrSw7Z9l16ut/9iAVqrZnxY+3tCMyfpTACXyDux4DA=
+			uXzpoN+uH2e0iVDoYkI+dXodfyxsxX6JO1bQ1/VjtnA=
 			</data>
 		</dict>
 		<key>Modules/RandomCars.swiftmodule/arm64-apple-ios.swiftdoc</key>
@@ -82,14 +82,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			rDrSw7Z9l16ut/9iAVqrZnxY+3tCMyfpTACXyDux4DA=
+			uXzpoN+uH2e0iVDoYkI+dXodfyxsxX6JO1bQ1/VjtnA=
 			</data>
 		</dict>
 		<key>Modules/RandomCars.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Gtn70XWeDehGMgh8bolSaw3eedW3vHnM5mtCK5cixLI=
+			UTYBq+1fSAt/rIRTb0pZqQAw0oto69TR3GO8o/el1mQ=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
