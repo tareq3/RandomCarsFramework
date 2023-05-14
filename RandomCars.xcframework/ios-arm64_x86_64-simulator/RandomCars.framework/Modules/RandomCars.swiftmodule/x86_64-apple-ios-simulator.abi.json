@@ -15,6 +15,13 @@
         ]
       },
       {
+        "kind": "Import",
+        "name": "CryptoSwift",
+        "printedName": "CryptoSwift",
+        "declKind": "Import",
+        "moduleName": "RandomCars"
+      },
+      {
         "kind": "TypeDecl",
         "name": "RandomCarGenerator",
         "printedName": "RandomCarGenerator",
