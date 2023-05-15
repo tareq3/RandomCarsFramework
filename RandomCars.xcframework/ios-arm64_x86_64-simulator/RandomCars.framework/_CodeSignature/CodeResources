@@ -18,11 +18,11 @@
 		</data>
 		<key>Modules/RandomCars.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		vppdkYPYJbWNuLpGiGyAlaKzioE=
+		HGB8uoy/2ZCbk4cFDDEDZgvoJCk=
 		</data>
 		<key>Modules/RandomCars.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		XxAnDJlFnPlXcMSztf7HEUyd8jY=
+		gV8OWV0NKFrmWyNrzYAvEMVbzuE=
 		</data>
 		<key>Modules/RandomCars.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -30,19 +30,19 @@
 		</data>
 		<key>Modules/RandomCars.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		XxAnDJlFnPlXcMSztf7HEUyd8jY=
+		gV8OWV0NKFrmWyNrzYAvEMVbzuE=
 		</data>
 		<key>Modules/RandomCars.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		r7MHDHWJYP8tfhIaLkxemThTgSM=
+		1+nqFZyyWP8CIQ6uJbcxu6Lste8=
 		</data>
 		<key>Modules/RandomCars.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		vppdkYPYJbWNuLpGiGyAlaKzioE=
+		HGB8uoy/2ZCbk4cFDDEDZgvoJCk=
 		</data>
 		<key>Modules/RandomCars.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		TEB9gLrH61zWLblies2feLwwfZY=
+		wzuo+TtwViRQWSOGLkzfWM4OxhA=
 		</data>
 		<key>Modules/RandomCars.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -50,11 +50,11 @@
 		</data>
 		<key>Modules/RandomCars.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		TEB9gLrH61zWLblies2feLwwfZY=
+		wzuo+TtwViRQWSOGLkzfWM4OxhA=
 		</data>
 		<key>Modules/RandomCars.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		ns2s3XnSIgKB9SBZNnx4dIXPde8=
+		CartkNU6T7mFL5yqDPlWT3fQ7X0=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -81,14 +81,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			Ttb/ajphTq41/bprSjs3+xUVDlcrVHO4y3qMi2zS72Y=
+			S8xN/ljn6L23mtdO0dJbbOlTi3uCLgzUSxRx1eaXEME=
 			</data>
 		</dict>
 		<key>Modules/RandomCars.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			/nMYejFNN5NZrbILUD3F6rE/h1be9hKjtUiaYdPwWqk=
+			YC+yhaL0YEI+SkiDB0SnHqKtfHtMExzh51gIPF3xmn4=
 			</data>
 		</dict>
 		<key>Modules/RandomCars.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
@@ -102,28 +102,28 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			/nMYejFNN5NZrbILUD3F6rE/h1be9hKjtUiaYdPwWqk=
+			YC+yhaL0YEI+SkiDB0SnHqKtfHtMExzh51gIPF3xmn4=
 			</data>
 		</dict>
 		<key>Modules/RandomCars.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			wubQBhOoo/NOE5LVhVN7+y4pxc1rmpidCtAb/kM+XbA=
+			ww7ULd5eGHUqBJSWTu1S/dMc2HpWL3X35xtNc0pFjM4=
 			</data>
 		</dict>
 		<key>Modules/RandomCars.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Ttb/ajphTq41/bprSjs3+xUVDlcrVHO4y3qMi2zS72Y=
+			S8xN/ljn6L23mtdO0dJbbOlTi3uCLgzUSxRx1eaXEME=
 			</data>
 		</dict>
 		<key>Modules/RandomCars.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			8he+m66L55kp5FVG81Cqk+fYoYMdlRa+69hC0xcv8nY=
+			2N/Bta8/pgLcYDqt4HxUNMHFdmmQWarB54mN+yX7oIU=
 			</data>
 		</dict>
 		<key>Modules/RandomCars.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
@@ -137,14 +137,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			8he+m66L55kp5FVG81Cqk+fYoYMdlRa+69hC0xcv8nY=
+			2N/Bta8/pgLcYDqt4HxUNMHFdmmQWarB54mN+yX7oIU=
 			</data>
 		</dict>
 		<key>Modules/RandomCars.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			nPFbTCVWIZlz1sqPSrOdwP0gSqhktab6bwbE2oax6gE=
+			/Kg1VHFwhslKd57i+wvRbjvtS+2xIC42yJYVC3v2+y8=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
